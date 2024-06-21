@@ -1,0 +1,31 @@
+.pagination {
+  display: flex;
+  flex-flow: wrap;
+  column-gap: 3rem;
+  row-gap: 1rem;
+
+  .pagination-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 1.6rem;
+    background-color: #fff;
+    border: 1px solid #b7b7b7;
+    color: #0e2341;
+    transition: all 100ms linear;
+
+    @media (min-width: 1080px) {
+      &:hover {
+        background-color: #756558;
+        color: #fff;
+        cursor: pointer;
+      }
+    }
+  }
+  .pagination-btn:active {
+    background-color: #756558;
+  }
+  .active-btn {
+    background-color: #756558;
+    color: #fff;
+  }
+}

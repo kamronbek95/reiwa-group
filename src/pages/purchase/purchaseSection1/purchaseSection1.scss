@@ -1,0 +1,1152 @@
+.purchase-section1 {
+    .purchase-section1_banner {
+      background-image: url("../../../assets/png/purchase-bg1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 200px;
+      display: flex;
+      align-items: center;
+  
+      h1 {
+        font-size: 62px;
+        font-weight: 700;
+        line-height: 71px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #FFFFFF;
+      }
+    }
+  
+    .purchase-section1_description {
+    //   background-color: rgba(61, 108, 187, 0.1);
+      padding: 5rem 0;
+  
+    }
+  }
+  
+  .card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 80px;
+    &_name{
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 38px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #FFFFFF;
+        background: #3D6CBB;
+        width: 60px;
+        height: 60px;
+        padding-top: 10px;
+        border-radius: 59px;
+        z-index: 2;
+    }
+    &_body{
+        display: flex;
+        flex-direction: column;
+        width: 350px;
+        border-radius: 5px;
+        margin-left: 40px;
+        background: #ECF1F9;
+        box-shadow: 0px 0px 4px 4px #0000001A;
+        padding-top: 15px;
+        padding-left: 20px;
+        padding-bottom: 30px;
+        z-index: 2;
+        h6 {
+            width: 145px;
+            border: 0.23em solid #3D6CBB;
+            margin-bottom: 8px;
+        }
+
+    }
+    
+    &_text{
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #3D6CBB;
+        margin-bottom: 8px;
+    }
+    p {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #0E2341;
+    }
+  }
+
+  .card1{
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    &::after{
+        content: " ";
+        position: absolute;
+        width: 605px;
+        border: 2px dotted #756558;
+        left: 55px;
+        top: 28px;
+    }
+  }
+  .card2{
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    &::after{
+        content: " ";
+        position: absolute;
+        width: 290px;
+        border: 2px dotted #756558;
+        top: 200px;
+        right: 273px;
+        transform: rotate(-90deg);
+    }
+  }
+  .card3{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 150px;
+  }
+  .card4{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 150px;
+    position: relative;
+    &::after{
+        content: " ";
+        position: absolute;
+        width: 605px;
+        border: 2px dotted #756558;
+        left: 55px;
+        top: 28px;
+    }
+
+  }
+
+  .card1_2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .card3_4{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 1060px) and (min-width: 996px){
+    .card1{
+      &::after{
+          width: 550px;
+      }
+    }
+    .card4{
+      &::after{
+          width: 550px;
+      }
+    }
+  }
+
+  @media only screen and (max-width: 996px) and (min-width: 950px){
+    .card1{
+      &::after{
+          width: 485px;
+      }
+    }
+    .card4{
+      &::after{
+          width: 485px;
+      }
+    }
+  }
+
+
+  @media only screen and (max-width: 950px) and (min-width: 778px){
+    .purchase-section1 {
+      .purchase-section1_banner {
+    
+        h1 {
+          font-size: 48px;
+        }
+      }
+    
+    }
+  
+  .card{
+    display: flex;
+    flex-direction: column;
+    &_name{
+      margin-bottom: 30px;
+    }
+
+  }
+
+  .card1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    // align-items: flex-start;
+    position: relative;
+    margin-bottom: 30px;
+    &::after{
+        transform: rotate(90deg);
+        width: 40px;
+        left: 44.5%;
+        top: 67px;
+    }
+  }
+  .card2{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+    position: relative;
+    &::after{
+        width: 130px;
+        top: 32px;
+        left: 33.5%;
+        transform: rotate(-90deg);
+    }
+  }
+  .card3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    &::after{
+      content: " ";
+      position: absolute;
+      border: 2px dotted #756558;
+      width: 276px;
+      transform: rotate(-90deg);
+  }
+  }
+  .card4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    position: relative;
+    &::after{
+        width: 276px;
+        right: 50%;
+        top: 0;
+        transform: rotate(-90deg);
+    }
+  }
+  .card1_2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .card3_4{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 778px) and (min-width:649px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+  
+      h1 {
+        font-size: 42px;
+      }
+    }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+&_text{
+    font-size: 20px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  // align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 40px;
+      left: 44.5%;
+      top: 67px;
+  }
+}
+.card2{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+  position: relative;
+  &::after{
+      width: 106px;
+      top: 32px;
+      left: 36.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  &::after{
+    content: " ";
+    position: absolute;
+    border: 2px dotted #756558;
+    width: 276px;
+    transform: rotate(-90deg);
+}
+}
+.card4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      right: 50%;
+      top: 0;
+      transform: rotate(-90deg);
+  }
+}
+
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 649px) and (min-width:501px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+      padding: 0 2rem;
+      h1 {
+        font-size: 38px;
+      }
+    }
+  
+  }
+
+  .card{
+    display: flex;
+    flex-direction: column;
+    &_name{
+      font-size: 24px;
+      margin-bottom: 30px;
+  }
+  
+  &_text{
+      font-size: 20px;
+  }
+  p {
+      font-size: 15px;
+  }
+  
+  }
+  
+  .card1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    // align-items: flex-start;
+    position: relative;
+    margin-bottom: 30px;
+    &::after{
+        transform: rotate(90deg);
+        width: 40px;
+        left: 44.5%;
+        top: 67px;
+    }
+  }
+  .card2{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+    position: relative;
+    &::after{
+        width: 106px;
+        top: 32px;
+        left: 36.5%;
+        transform: rotate(-90deg);
+    }
+  }
+  .card3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    &::after{
+      content: " ";
+      position: absolute;
+      border: 2px dotted #756558;
+      width: 276px;
+      transform: rotate(-90deg);
+  }
+  }
+  .card4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    position: relative;
+    &::after{
+        width: 276px;
+        right: 50%;
+        top: 0;
+        transform: rotate(-90deg);
+    }
+  }
+  
+  .card1_2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .card3_4{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 500px) and (min-width:470px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+
+      height: 100px;
+      margin-bottom: 0;
+      h1 {
+        font-family: Open Sans;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: center;
+      }
+    }
+    .purchase-section1_description {
+      //   background-color: rgba(61, 108, 187, 0.1);
+        padding: 5rem 2rem;
+    
+      }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+&_body{
+  width: 253px;
+  margin-left: 0;
+  background: inherit;
+  box-shadow: none;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  z-index: 2;
+  h6 {
+      width: 145px;
+      border: 0.23em solid #3D6CBB;
+      margin-bottom: 8px;
+  }
+
+}
+
+&_text{
+    font-size: 22px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 155px;
+      left: -10.5%;
+      top: 110px;
+  }
+}
+.card2{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  &::after{
+      width: 190px;
+      top: 147px;
+      left: -14.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+.card4{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      left: -34.5%;
+      top: -92px;
+      transform: rotate(-90deg);
+  }
+}
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+}
+
+
+@media only screen and (max-width: 470px) and (min-width:440px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+
+      height: 100px;
+      margin-bottom: 0;
+      h1 {
+        font-family: Open Sans;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: center;
+      }
+    }
+    .purchase-section1_description {
+      //   background-color: rgba(61, 108, 187, 0.1);
+        padding: 5rem 2rem;
+    
+      }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+&_body{
+  width: 253px;
+  margin-left: 0;
+  background: inherit;
+  box-shadow: none;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  z-index: 2;
+  h6 {
+      width: 145px;
+      border: 0.23em solid #3D6CBB;
+      margin-bottom: 8px;
+  }
+
+}
+
+&_text{
+    font-size: 22px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 155px;
+      left: -12.5%;
+      top: 110px;
+  }
+}
+.card2{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  &::after{
+      width: 190px;
+      top: 147px;
+      left: -16.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+.card4{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      left: -34.5%;
+      top: -92px;
+      transform: rotate(-90deg);
+  }
+}
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 440px) and (min-width:415px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+
+      height: 100px;
+      margin-bottom: 0;
+      h1 {
+        font-family: Open Sans;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: center;
+      }
+    }
+    .purchase-section1_description {
+      //   background-color: rgba(61, 108, 187, 0.1);
+        padding: 5rem 2rem;
+    
+      }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+&_body{
+  width: 253px;
+  margin-left: 0;
+  background: inherit;
+  box-shadow: none;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  z-index: 2;
+  h6 {
+      width: 145px;
+      border: 0.23em solid #3D6CBB;
+      margin-bottom: 8px;
+  }
+
+}
+
+&_text{
+    font-size: 22px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 155px;
+      left: -13.5%;
+      top: 110px;
+  }
+}
+.card2{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  &::after{
+      width: 190px;
+      top: 147px;
+      left: -17.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+.card4{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      left: -34.5%;
+      top: -92px;
+      transform: rotate(-90deg);
+  }
+}
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 415px) and (min-width:395px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+
+      height: 100px;
+      margin-bottom: 0;
+      h1 {
+        font-family: Open Sans;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: center;
+      }
+    }
+    .purchase-section1_description {
+      //   background-color: rgba(61, 108, 187, 0.1);
+        padding: 5rem 2rem;
+    
+      }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+&_body{
+  width: 253px;
+  margin-left: 0;
+  background: inherit;
+  box-shadow: none;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  z-index: 2;
+  h6 {
+      width: 145px;
+      border: 0.23em solid #3D6CBB;
+      margin-bottom: 8px;
+  }
+
+}
+
+&_text{
+    font-size: 22px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 155px;
+      left: -14.5%;
+      top: 110px;
+  }
+}
+.card2{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  &::after{
+      width: 190px;
+      top: 147px;
+      left: -18.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+.card4{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      left: -34.5%;
+      top: -92px;
+      transform: rotate(-90deg);
+  }
+}
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 395px) and (min-width:370px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+
+      height: 100px;
+      margin-bottom: 0;
+      h1 {
+        font-family: Open Sans;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: center;
+      }
+    }
+    .purchase-section1_description {
+      //   background-color: rgba(61, 108, 187, 0.1);
+        padding: 5rem 2rem;
+    
+      }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+&_body{
+  width: 253px;
+  margin-left: 0;
+  background: inherit;
+  box-shadow: none;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  z-index: 2;
+  h6 {
+      width: 145px;
+      border: 0.23em solid #3D6CBB;
+      margin-bottom: 8px;
+  }
+
+}
+
+&_text{
+    font-size: 22px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 155px;
+      left: -14.5%;
+      top: 110px;
+  }
+}
+.card2{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  &::after{
+      width: 190px;
+      top: 147px;
+      left: -19.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+.card4{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      left: -34.5%;
+      top: -92px;
+      transform: rotate(-90deg);
+  }
+}
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 370px){
+  .purchase-section1 {
+    .purchase-section1_banner {
+
+      height: 100px;
+      margin-bottom: 0;
+      h1 {
+        font-family: Open Sans;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: center;
+      }
+    }
+    .purchase-section1_description {
+      //   background-color: rgba(61, 108, 187, 0.1);
+        padding: 5rem 2rem;
+    
+      }
+  
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  &_name{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+&_body{
+  width: 253px;
+  margin-left: 0;
+  background: inherit;
+  box-shadow: none;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  z-index: 2;
+  h6 {
+      width: 145px;
+      border: 0.23em solid #3D6CBB;
+      margin-bottom: 8px;
+  }
+
+}
+
+&_text{
+    font-size: 22px;
+}
+p {
+    font-size: 15px;
+}
+
+}
+
+.card1{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 30px;
+  &::after{
+      transform: rotate(90deg);
+      width: 155px;
+      left: -15.5%;
+      top: 110px;
+  }
+}
+.card2{
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  &::after{
+      width: 190px;
+      top: 147px;
+      left: -20.5%;
+      transform: rotate(-90deg);
+  }
+}
+.card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+.card4{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  position: relative;
+  &::after{
+      width: 276px;
+      left: -34.5%;
+      top: -92px;
+      transform: rotate(-90deg);
+  }
+}
+.card1_2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.card3_4{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+}

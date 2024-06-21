@@ -1,0 +1,348 @@
+.project-details {
+  .project-details_inner {
+    padding: 1.5rem 3rem 3rem;
+
+    > h2 {
+      font-family: 'Open Sans';
+      font-size: 2rem;
+      line-height: 2.3rem;
+      font-weight: 600;
+      color: #0e2341;
+      margin-bottom: 1rem;
+    }
+
+    .project-overview {
+      margin-bottom: 1.5rem;
+      p {
+        font-size: 1.8rem;
+        line-height: 2.451rem;
+        font-weight: 600;
+        color: #d7bb83;
+        margin-bottom: 0.3rem;
+
+        span {
+          margin-left: 0.7rem;
+          color: #0e2341;
+          font-weight: 400;
+        }
+      }
+    }
+    .project-description {
+      font-size: 1.8rem;
+      line-height: 2.451rem;
+      font-weight: 400;
+      color: #0e2341;
+      margin-bottom: 2rem;
+    }
+
+    button {
+      background-color: #756558;
+      border: 1px solid #756558;
+      font-size: 1.4rem;
+      line-height: 1.9rem;
+      font-weight: 600;
+      color: #fff;
+      cursor: auto;
+      padding: 1.5rem 3.2rem;
+    }
+  }
+
+  .house-details {
+    padding: 3rem;
+    background-color: #7565581a;
+    h2 {
+      font-family: 'Open Sans';
+      font-size: 2.4rem;
+      line-height: 2.76rem;
+      font-weight: 600;
+      color: #0e2341;
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .house {
+      .house-desktop {
+        display: none;
+      }
+      .house-mobile {
+        table {
+          width: 100%;
+          border-collapse: collapse;
+          margin-bottom: 2rem;
+          th,
+          td {
+            border: 1px solid #d7bb83;
+            font-family: 'Open Sans';
+            font-size: 1.4rem;
+            line-height: 1.907rem;
+            font-weight: 400;
+            color: #0e2341;
+            padding: 0.6rem 1.5rem;
+          }
+
+          th {
+            text-align: start;
+            background-color: #d7bb83;
+            border-bottom: 1px solid #0e2341;
+            width: 30%;
+          }
+
+          .yard {
+            border-bottom: none;
+          }
+
+          td {
+            background-color: #fff;
+            text-align: center;
+          }
+        }
+      }
+    }
+    .house-details--btn {
+      background-color: #756558;
+      border-radius: 0;
+      border: 1px solid #756558;
+      color: #fff;
+      font-weight: 600;
+      cursor: auto;
+    }
+  }
+  .appliaction {
+    padding: 5rem 0 7rem;
+    text-align: center;
+
+    h2 {
+      font-size: 2.4rem;
+      line-height: 2.76rem;
+      color: #0e2341;
+      font-weight: 600;
+      margin-bottom: 2rem;
+    }
+
+    a {
+      display: inline-block;
+      font-size: 1.5rem;
+      line-height: 2.043rem;
+      color: #fff;
+      font-weight: 600;
+
+      padding: 1.4rem 5.1rem;
+      background-color: #0e2341;
+      border: 1px solid #fff;
+      outline: 3px solid #0e2341;
+      cursor: auto;
+      transition: all 200ms linear;
+
+      &:active {
+        background-color: #fff;
+      }
+    }
+  }
+
+  @media (min-width: 600px) {
+    .house-details {
+      padding: 4rem 3rem;
+      background-color: #7565581a;
+      h2 {
+        font-family: 'Open Sans';
+        font-size: 2.7rem;
+        line-height: 3rem;
+        margin-bottom: 4rem;
+      }
+      .houses-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 3rem;
+      }
+      .house {
+        .house-desktop {
+          display: none;
+        }
+        .house-mobile {
+          table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 2rem;
+            th,
+            td {
+              border: 1px solid #d7bb83;
+              font-family: 'Open Sans';
+              font-size: 1.4rem;
+              line-height: 1.907rem;
+              font-weight: 400;
+              color: #0e2341;
+              padding: 0.6rem 1.5rem;
+            }
+
+            th {
+              text-align: start;
+              background-color: #d7bb83;
+              border-bottom: 1px solid #0e2341;
+              width: 30%;
+            }
+
+            .yard {
+              border-bottom: none;
+            }
+
+            td {
+              background-color: #fff;
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  @media (min-width: 768px) {
+    .appliaction {
+      display: none;
+    }
+  }
+
+  @media (min-width: 1080px) {
+    .project-details_inner {
+      padding: 1.5rem 3rem 3rem;
+
+      h2 {
+        font-size: 3.8rem;
+        line-height: 4.37rem;
+        margin-bottom: 1.5rem;
+        text-align: left;
+      }
+
+      .project-overview {
+        margin-bottom: 4rem;
+        display: flex;
+        gap: 3rem;
+        p {
+          font-size: 2.4rem;
+          line-height: 3.268rem;
+          margin-bottom: 0;
+        }
+      }
+
+      button {
+        background-color: #fff;
+        border: 1px solid #d7bb83;
+        color: #d7bb83;
+        cursor: pointer;
+        padding: 1.5rem 3.2rem;
+
+        &:hover {
+          background-color: #d7bb83;
+          color: #fff;
+        }
+      }
+    }
+
+    .house-details {
+      padding: 5rem 9.5rem;
+      background-color: #7565581a;
+      h2 {
+        font-family: 'Open Sans';
+        font-size: 2.4rem;
+        line-height: 2.76rem;
+        font-weight: 600;
+        color: #0e2341;
+        text-align: center;
+        margin-bottom: 3rem;
+      }
+      .houses-container {
+        display: block;
+      }
+      .house {
+        .house-desktop {
+          display: block;
+        }
+        .house-mobile {
+          display: none;
+        }
+
+        background-color: #fff;
+        padding: 2rem 5rem 2rem 2rem;
+        box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.05);
+        margin-bottom: 3.5rem;
+
+        .accordion-top {
+          h2 {
+            font-size: 2.6rem;
+            line-height: 2.99rem;
+            font-weight: 600;
+            color: #0e2341;
+            margin-bottom: 1.5rem;
+            text-align: left;
+          }
+          .house-description {
+            gap: 4rem;
+            p {
+              font-size: 1.8rem;
+              line-height: 2.451rem;
+              font-weight: 600;
+              color: #d7bb83;
+
+              span {
+                color: #0e2341;
+              }
+            }
+          }
+          button {
+            border: 1px solid #d7bb83;
+            background-color: #fff;
+            font-size: 1.4rem;
+            line-height: 1.907rem;
+            font-weight: 600;
+            color: #d7bb83;
+            min-width: 153px;
+
+            &:hover {
+              background-color: #d7bb83;
+              color: #fff;
+            }
+          }
+        }
+        .accordion-bottom {
+          display: none;
+          margin-top: 3rem;
+          > div {
+            p {
+              font-size: 2.2rem;
+              line-height: 2.5rem;
+              font-weight: 400;
+              color: #0e2341;
+              margin-bottom: 1.5rem;
+            }
+
+            a {
+              display: inline-block;
+              border: 1px solid #756558;
+              color: #756558;
+              background-color: #fff;
+              font-size: 1.4rem;
+              line-height: 1.907rem;
+              font-weight: 600;
+
+              &:hover {
+                background-color: #756558;
+                color: #fff;
+              }
+            }
+          }
+        }
+        .accordion-bottom-open {
+          display: block;
+        }
+      }
+      .house-details--btn {
+        cursor: pointer;
+        border-radius: 5px;
+        &:hover {
+          background-color: #fff;
+          color: #756558;
+          border: 1px solid #756558;
+        }
+      }
+    }
+  }
+}

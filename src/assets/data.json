@@ -1,0 +1,2293 @@
+{
+  "projects": [
+    {
+      "projectId": 1,
+      "projectIndex": "001",
+      "projectImgUrl": [
+        "images/project1-1.jpg",
+        "images/project1-2.jpg",
+        "images/project1-3.jpg",
+        "images/project1-4.jpg"
+      ],
+      "projectArea": "044 современный жилой комплекс, расположенный в популярном районе Гермасойя, Лимассол",
+      "projectStatus": "Завершен",
+      "projectType": "Частная",
+      "region": "Лимассол",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Он состоит из 3-этажного здания с семью апартаментами, тремя однокомнатными апартаментами и четырьмя двухкомнатными апартаментами с большими верандами. Из всех квартир открывается прекрасный вид на город и Средиземное море."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Этот комплекс находится всего в 10 минутах езды от центра, в пределах легкого доступа к шоссе и всего в 3,5 км от моря. "
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Основные характеристики проекта"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Входные двери из массива дерева Ироко",
+            "Мраморные лестницы и мраморные ванные комнаты",
+            "Ландшафтный общий сад с системой орошения",
+            "Вид на город",
+            "Вид на море",
+            "В 10 минутах езды от центра города",
+            "3км до моря"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://www.islandbluecyprus.ru/germasogeia-view-1and2-bedroom-apartments-for-sale-in-limassol/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "101",
+          "bedroom": 2,
+          "area": 100,
+          "yard": 22,
+          "price": 350000,
+          "innerArea": 67,
+          "veranda": 6,
+          "pricePerSquareMetre": 4185
+        },
+        {
+          "type": "102",
+          "bedroom": 2,
+          "area": 96,
+          "yard": 21,
+          "price": 350000,
+          "innerArea": 67,
+          "veranda": 6,
+          "pricePerSquareMetre": 4185
+        },
+        {
+          "type": "202",
+          "bedroom": 1,
+          "area": 64,
+          "yard": 14,
+          "price": 250000,
+          "innerArea": 67,
+          "veranda": 6,
+          "pricePerSquareMetre": 3906.25
+        },
+        {
+          "type": "203",
+          "bedroom": 1,
+          "area": 64,
+          "yard": 14,
+          "price": 250000,
+          "innerArea": 67,
+          "veranda": 6,
+          "pricePerSquareMetre": 3906.25
+        }
+      ]
+    },
+    {
+      "projectId": 2,
+      "projectIndex": "002",
+      "projectImgUrl": [
+        "images/project2-1.jpg",
+        "images/project2-2.jpg",
+        "images/project2-3.jpg",
+        "images/project2-4.jpg",
+        "images/project2-5.jpg",
+        "images/project2-6.jpg",
+        "images/project2-7.jpg",
+        "images/project2-8.jpg",
+        "images/project2-9.jpg"
+      ],
+      "projectArea": "024 Комплекс таунхаусов и вилл, окруженных фруктовыми и ландшафтными садами",
+      "projectStatus": "Завершен",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Расположенный в окружении плодовых деревьев и ландшафтных садов, уникальный комплекс состоит из таунхаусов и вилл с двумя и тремя спальнями."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Предоставляется выбор этой современной недвижимости как в полуотдельных вариантах, включая большой общий бассейн, так и возможность покупки отдельно стоящих вилл с опцией частного бассейна."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "В проекте умело совмещены современная архитектура и высококачественная отделка со средиземноморской атмосферой."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "В проекте широко используется естественное освещение, что обеспечивает просторность интерьеров. Каждая недвижимость имеет выход на уютную террасу со своим садом, откуда открывается вид на бассейн или общественные сады, предлагая своим резидентам безупречное место для обеда на свежем воздухе."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Особенности"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Этажность: 2",
+            "Количество спален: от 2 до 3",
+            "Площадь объектов, м2: от 84 до 139",
+            "Расстояние до моря, м: 1500",
+            "Класс энергоэффективности: A"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://dom.com.cy/live/complexes/luxury-complex-paphos/the-grove/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Townhouse South Block 1 #1.6",
+          "bedroom": 2,
+          "area": 89,
+          "yard": 86,
+          "price": 385000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Townhouse South Block 2 #2.10",
+          "bedroom": 2,
+          "area": 110,
+          "yard": 85,
+          "price": 355000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Townhouse South Block 2 #2.11",
+          "bedroom": 2,
+          "area": 99,
+          "yard": 85,
+          "price": 370000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Townhouse South Block 2 #2.12",
+          "bedroom": 2,
+          "area": 96,
+          "yard": 85,
+          "price": 356000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 3,
+      "projectIndex": "003",
+      "projectImgUrl": [
+        "images/project3-1.jpg",
+        "images/project3-2.jpg",
+        "images/project3-3.jpg",
+        "images/project3-4.jpg",
+        "images/project3-5.jpg",
+        "images/project3-6.jpg",
+        "images/project3-7.jpg"
+      ],
+      "projectArea": "005 5-звездочный комплекс закрытого типа/сообщество для людей 60+",
+      "projectStatus": "2024 год завершения",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Проект предлагает 5-звездочное проживание для пожилых людей с самыми современными удобствами. Частное комьюнити с предоставлением услуг \"все включено\" и проживанием в курортном стиле сделают  жизнь ваших близких комфортной, безопасной и приятной. "
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Наша деревня дает вам возможность стать частью чего-то действительно уникального. Речь идет о жизни в сообществе, которое позволяет вам оставаться общительным, активным и на связи , предлагая поддержку и безопасность."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Эксклюзивное 5-звездочное специально построенное сообщество пенсионеров, расположенное в пышных ландшафтных садах общей площадью 31 000 квадратных метров, ориентировано на людей старше 60."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Около 104 объектов недвижимости в свободном владении, выполненные в современном дизайне и наилучшего качества, будут доступны в виде студий, апартаментов с одной, двумя и тремя спальнями."
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Особенности:"
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Медицинские услуги на территории сообщества:"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Лицензированные услуги",
+            "Медсестра на месте 24/7 ",
+            "Врач по вызову 24/7",
+            "Скорая помощь 24/7",
+            "Система экстренного вызова",
+            "Аптека на территории"
+          ]
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Развлечения:"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Открытый бассейн",
+            "Крытый бассейн с подогревом",
+            "Спа-центр и тренажерный зал",
+            "Общественные сады",
+            "Рестораны, Кафе и бар",
+            "Клабхаус"
+          ]
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Безопасность:"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Закрытая территория",
+            "Менеджер на месте",
+            "ВИДЕОНАБЛЮДЕНИЕ",
+            "Подходит для инвалидных"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://dom.com.cy/en/live/complexes/luxury-complex-paphos/cypress-park/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Аппартаменты 01",
+          "bedroom": 2,
+          "area": 82,
+          "yard": "15+",
+          "price": 343200,
+          "innerArea": 67,
+          "veranda": 6,
+          "pricePerSquareMetre": 4185
+        },
+        {
+          "type": "Аппартаменты 02",
+          "bedroom": 2,
+          "area": 77,
+          "yard": "18+",
+          "price": 324500,
+          "innerArea": 59,
+          "veranda": 6,
+          "pricePerSquareMetre": 4214
+        },
+        {
+          "type": "Аппартаменты 03",
+          "bedroom": 3,
+          "area": 122,
+          "yard": "33+",
+          "price": 495000,
+          "innerArea": 89,
+          "veranda": 6,
+          "pricePerSquareMetre": 4057
+        },
+        {
+          "type": "Аппартаменты 101",
+          "bedroom": 2,
+          "area": 82,
+          "yard": 15,
+          "price": 324500,
+          "innerArea": 67,
+          "veranda": 6,
+          "pricePerSquareMetre": 3957
+        },
+        {
+          "type": "Аппартаменты 102",
+          "bedroom": 2,
+          "area": 77,
+          "yard": 18,
+          "price": 324500,
+          "innerArea": 59,
+          "veranda": 6,
+          "pricePerSquareMetre": 4214
+        },
+        {
+          "type": "Аппартаменты 103",
+          "bedroom": 3,
+          "area": 122,
+          "yard": 33,
+          "price": 462000,
+          "innerArea": 89,
+          "veranda": 6,
+          "pricePerSquareMetre": 3786
+        }
+      ]
+    },
+    {
+      "projectId": 4,
+      "projectIndex": "004",
+      "projectImgUrl": [
+        "https://uploads-ssl.webflow.com/64322999b89d662550666b2e/6475df749642f5302b6b8a35_First.webp"
+      ],
+      "projectArea": "007 Комплекс высококлассных вилл в округе Пафоса - деревне Хлорака",
+      "projectStatus": "В процессе",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Все 23 виллы высокого класса расположены на холмах Меланос в Хлораке, предоставляя жителям фантастический вид на море. "
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Расположенный недалеко от всех удобств, которые может предложить Пафос, комплекс в то же время окружен жилыми домами, без шума туристических зон. Вариативный дизайн интерьера - это нечто новое для кипрского рынка, и он может удовлетворить любые предпочтения наших жителей."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Чувствуйте себя в безопасности, так как Fayno - это закрытое сообщество."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Системы VRV, бытовая техника и система \"Умный дом\" установлены в каждом доме."
+        }
+      ],
+      "projects": [
+        {
+          "type": "Вилла TYPE A",
+          "bedroom": 3,
+          "area": 237.4,
+          "yard": 340,
+          "price": 1050000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": 3,
+          "area": 157,
+          "yard": 300,
+          "price": 997500,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": 3,
+          "area": 157,
+          "yard": 300,
+          "price": 997500,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": 3,
+          "area": 169.6,
+          "yard": 313,
+          "price": 997500,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE F",
+          "bedroom": 3,
+          "area": 229.5,
+          "yard": 157,
+          "price": 903000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE F",
+          "bedroom": 3,
+          "area": 229.5,
+          "yard": 286,
+          "price": 903000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE E",
+          "bedroom": 3,
+          "area": 208.25,
+          "yard": 304,
+          "price": 903000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE H",
+          "bedroom": 3,
+          "area": 134,
+          "yard": 250,
+          "price": 787500,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE F",
+          "bedroom": 3,
+          "area": 152.5,
+          "yard": 320,
+          "price": 787500,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE E",
+          "bedroom": 3,
+          "area": 170.4,
+          "yard": 320,
+          "price": 903000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE A",
+          "bedroom": 3,
+          "area": 237.4,
+          "yard": 345,
+          "price": 1050000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE E",
+          "bedroom": 3,
+          "area": 157.7,
+          "yard": 340,
+          "price": 997500,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 5,
+      "projectIndex": "005",
+      "projectImgUrl": [
+        "images/project5-1.jpg",
+        "images/project5-2.jpg",
+        "images/project5-3.jpg",
+        "images/project5-4.jpg",
+        "images/project5-5.jpg"
+      ],
+      "projectArea": "019 Элитный жилой комплекс в Пафосе, вдоль береговой линии",
+      "projectStatus": "Завершен",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Проект в Пафосе вдоль береговой линии. Локация комплекса позволит в короткое время дойти до большого супермаркета, остановки общественного транспорта, к набережной порта. Квартиры комплекса будут оборудованы панорамными окнами с большими световыми пространствами"
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Особенности"
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Количество спален: от 1 до 3"
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Площадь объектов, м2: от 35 до 161"
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Расстояние до моря, м: 500"
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Класс энергоэффективности: A"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "высота 8 уровней",
+            "Удобства на первом этаже, включая тренажерный зал",
+            "Центральное расположение в нескольких минутах ходьбы от банков, супермаркета, гавани, торгового центра, Бейрутского университета, отелей, кафе,",
+            "ресторанов",
+            "Современная архитектура",
+            "Сады с общим бассейном",
+            "Вид на море",
+            "Просторные балконы файлы"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "type": "Apartment North West #A001",
+          "bedroom": 2,
+          "area": 166,
+          "yard": 0,
+          "price": 636000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North West #A101",
+          "bedroom": 2,
+          "area": 128,
+          "yard": 0,
+          "price": 555000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North West #A104",
+          "bedroom": 2,
+          "area": 116,
+          "yard": 0,
+          "price": 476000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment South West #A106",
+          "bedroom": 1,
+          "area": 82,
+          "yard": 0,
+          "price": 347000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment South West #A107",
+          "bedroom": 1,
+          "area": 86,
+          "yard": 0,
+          "price": 352000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment South West #A108",
+          "bedroom": 2,
+          "area": 124,
+          "yard": 0,
+          "price": 512000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Studio North East #A109",
+          "bedroom": 1,
+          "area": 50,
+          "yard": 0,
+          "price": 213000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North West #A201",
+          "bedroom": 2,
+          "area": 129,
+          "yard": 0,
+          "price": 535000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North West #A202",
+          "bedroom": 1,
+          "area": 84,
+          "yard": 0,
+          "price": 378000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North West #A203",
+          "bedroom": 2,
+          "area": 120,
+          "yard": 0,
+          "price": 492000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment South West #A204",
+          "bedroom": 2,
+          "area": 127,
+          "yard": 0,
+          "price": 549000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment South West #A205",
+          "bedroom": 2,
+          "area": 139,
+          "yard": 0,
+          "price": 565000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment South West #A206",
+          "bedroom": 2,
+          "area": 124,
+          "yard": 0,
+          "price": 516000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Studio North East #A207",
+          "bedroom": 1,
+          "area": 50,
+          "yard": 0,
+          "price": 227000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 6,
+      "projectIndex": "006",
+      "projectImgUrl": [
+        "images/project6-1.jpg",
+        "images/project6-2.jpg",
+        "images/project6-3.jpg",
+        "images/project6-4.jpg",
+        "images/project6-5.jpg"
+      ],
+      "projectArea": "015 Виллы и дома в эксклюзивном закрытом сообществе в престижном пригороде Пафоса",
+      "projectStatus": "24 месяца после подписания",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Закрытое сообщество современных домов для современной жизни. Комплекс состоит из 34 отдельно стоящих вилл и 26 домов, расположенных вокруг центрального зеленого парка."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Современный комплекс расположен в престижном пригороде Пафоса на склоне холма, Кония, который хорошо известен своими великолепными закатами. Деревня пользуется популярностью у местных жителей и имеет оживленное сообщество эмигрантов благодаря своему удобному расположению и традиционным удобствам."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Район расположен всего в 3 км или в 5 минутах езды на машине от центра города Пафос и крупнейшей международной школы в регионе, что делает его идеальным местом для семейного отдыха."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Особенности:"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "110-187 кв.м.",
+            "Виллы - 34 ",
+            "Дома -26 ",
+            "Престижная локация",
+            "Частные бассейны",
+            "Высококачественные материалы",
+            "Центральный зеленый парк"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://www.pafilia.com/properties/villas-cyprus/pafos-villas/villas/koniagreen/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Villa West #V1 ( TYPE C)",
+          "bedroom": 3,
+          "area": 182,
+          "yard": 390,
+          "price": 888000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa West #V2 ( TYPE A)",
+          "bedroom": 3,
+          "area": 151,
+          "yard": 320,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V6 ( TYPE C)",
+          "bedroom": 3,
+          "area": 182.0,
+          "yard": 420.0,
+          "price": 899000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V7 (TYPE A)",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 290.0,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V8 ( TYPE A)",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 295.0,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V9 ( TYPE A)",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 295.0,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V10 ( TYPE A)",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 300.0,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V11 ( TYPE A)",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 300.0,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa South East #V12 ( TYPE A)",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 325.0,
+          "price": 717000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa North East #V13 ( TYPE B)",
+          "bedroom": 3,
+          "area": 165.0,
+          "yard": 310.0,
+          "price": 770000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa North East #V14 ( TYPE B)",
+          "bedroom": 3,
+          "area": 165.0,
+          "yard": 295.0,
+          "price": 770000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa North East #V15 ( TYPE B) ",
+          "bedroom": 3,
+          "area": 165.0,
+          "yard": 295.0,
+          "price": 770000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa East #V16 ( TYPE B)",
+          "bedroom": 3,
+          "area": 165.0,
+          "yard": 295.0,
+          "price": 770000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Villa East #V17 ( TYPE C)",
+          "bedroom": 3,
+          "area": 182.0,
+          "yard": 385.0,
+          "price": 867000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 7,
+      "projectIndex": "007",
+      "projectImgUrl": [
+        "images/project7-1.jpg",
+        "images/project7-2.jpg",
+        "images/project7-3.jpg",
+        "images/project7-4.jpg",
+        "images/project7-5.jpg",
+        "images/project7-6.jpg",
+        "images/project7-7.jpg"
+      ],
+      "projectArea": "013 Стильный комплекс, состоящий из резиденций: просторных апартаментов и пентхаусов открытой планировки",
+      "projectStatus": "Завершен",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Комплекс расположен на склоне холма в нескольких минутах ходьбы от деревни Тала. Отсюда открываются потрясающие виды на горы и Средиземное море."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Большой бассейн и терраса с видом на ландшафтные сады создают сказочную средиземноморскую атмосферу, идеально подходящую для отдыха. Покатые крыши домов придают комплексу средиземноморский колорит и выгодно отличают его от других современных комплексов."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Деревня Тала располагается в нескольких минутах ходьбы от комплекса. Здесь вы найдете банк, множество кафе, ресторанов и супермаркетов. Сам Пафос находятся в 10 минутах езды. Кроме того, в пяти минутах езды от комплекса находятся песчаный пляж Корал-Бэй, идеально подходящий для купания и различных видов водного спорта."
+        },
+        {
+          "textType": "link",
+          "textContent": "https://www.pafilia.ru/properties/all-ru/pafos-ru/domus-townhouses/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Apartment South East Block B #3",
+          "bedroom": 2,
+          "area": 110.0,
+          "yard": 0.0,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North West Block B #104",
+          "bedroom": 2,
+          "area": 106.0,
+          "yard": 0.0,
+          "price": 280000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Townhouse East Block C #101",
+          "bedroom": 2,
+          "area": 118.0,
+          "yard": 0.0,
+          "price": 352000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment North East Block D #201",
+          "bedroom": 3,
+          "area": 151.0,
+          "yard": 0.0,
+          "price": 522000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 8,
+      "projectIndex": "008",
+      "projectImgUrl": [
+        "images/project8-1.jpg",
+        "images/project8-2.jpg",
+        "images/project8-3.jpg",
+        "images/project8-4.jpg",
+        "images/project8-5.jpg"
+      ],
+      "projectArea": "004 Клубное комьюнити класса 'Люкс' (район Venus Beach, Пафос)",
+      "projectStatus": "В процессе",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Проект состоит из 35 вилл, построенных на заказ, 7 различных типов и трех блоков роскошных апартаментов с высокой архитектурной эстетикой и лучшим выбором материалов."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Расположенный в безмятежном месте на высоте над уровнем моря, райские сады, клубный дом с круглосуточной стойкой регистрации, эклектичные рестораны, частный тренажерный зал и фитнес-центры, первоклассная охрана и широкий спектр качественных удобств."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Близость к центру города наряду с великолепным участком на берегу моря создают идеальный баланс между динамичностью и легким доступом к городским удобствам, обеспечивая при этом сдержанную и расслабляющую обстановку для снятия стресса."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Каждая вилла располагает потрясающим бассейном, большими уютными помещениями, роскошными высокими потолками и полностью оборудованной по последнему слову техники."
+        },
+        { "textType": "paragraph", "textContent": "Обзор проекта " },
+        {
+          "textType": "list",
+          "textContent": [
+            "35 Роскошных вилл на продажу",
+            "Многоквартирных дома",
+            "Потрясающий вид на море ",
+            "Идеальное расположение - рядом со всеми удобствами",
+            "Удобства в клубном доме",
+            "Услуги консьержа"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://korantinahomes.com/ru/projects/royal-bay-resort/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Вилла TYPE F",
+          "bedroom": "4+2",
+          "area": 407,
+          "yard": 827,
+          "price": 4600000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 751,
+          "price": "RESERVED",
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 629,
+          "price": 4600000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 595,
+          "price": 4400000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 588,
+          "price": 4300000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 616,
+          "price": 4400000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 597,
+          "price": 4400000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE B",
+          "bedroom": "4+2",
+          "area": 430,
+          "yard": 613,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": "4+2",
+          "area": 406,
+          "yard": 592,
+          "price": 4400000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": "4+2",
+          "area": 406,
+          "yard": 520,
+          "price": 4200000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE A",
+          "bedroom": "4+3",
+          "area": 436,
+          "yard": 632,
+          "price": 2700000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE D",
+          "bedroom": "4+3",
+          "area": 403,
+          "yard": 627,
+          "price": "RESERVED",
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE A",
+          "bedroom": "4+3",
+          "area": 436,
+          "yard": 542,
+          "price": 2500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": "4+2",
+          "area": 406,
+          "yard": 578,
+          "price": 2650000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE F",
+          "bedroom": "4+2",
+          "area": 407,
+          "yard": 730,
+          "price": 2850000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE D",
+          "bedroom": 4,
+          "area": 282,
+          "yard": 629,
+          "price": 2200000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE E",
+          "bedroom": "4+2",
+          "area": 456,
+          "yard": 611,
+          "price": 2900000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE C",
+          "bedroom": 4,
+          "area": 310,
+          "yard": 659,
+          "price": 2300000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE F",
+          "bedroom": "4+2",
+          "area": 407,
+          "yard": 619,
+          "price": 2500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE D",
+          "bedroom": 4,
+          "area": 282,
+          "yard": 537,
+          "price": 2200000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE D",
+          "bedroom": 4,
+          "area": 282,
+          "yard": 667,
+          "price": 2200000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE D",
+          "bedroom": 4,
+          "area": 282,
+          "yard": 620,
+          "price": 2200000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE G",
+          "bedroom": 3,
+          "area": 164,
+          "yard": 250,
+          "price": 950000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла TYPE G",
+          "bedroom": 3,
+          "area": 164,
+          "yard": 225,
+          "price": 950000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 9,
+      "projectIndex": "009",
+      "projectImgUrl": [
+        "images/project9-1.jpg",
+        "images/project9-2.jpg",
+        "images/project9-3.jpg",
+        "images/project9-4.jpg",
+        "images/project9-5.jpg",
+        "images/project9-6.jpg",
+        "images/project9-7.jpg",
+        "images/project9-8.jpg",
+        "images/project9-9.jpg",
+        "images/project9-10.jpg",
+        "images/project9-11.jpg"
+      ],
+      "projectArea": "088 Комфортабельные современные резиденции в центре Пафоса",
+      "projectStatus": "В процессе",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projects": [
+        {
+          "type": "Block B A001",
+          "bedroom": 2,
+          "area": 124.25,
+          "yard": 0,
+          "price": 240000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Block B A205",
+          "bedroom": 2,
+          "area": 124.25,
+          "yard": 0,
+          "price": 275000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 10,
+      "projectIndex": "010",
+      "projectImgUrl": [
+        "images/project10-1.jpg",
+        "images/project10-2.jpg",
+        "images/project10-3.jpg",
+        "images/project10-4.jpg",
+        "images/project10-5.jpg",
+        "images/project10-6.jpg",
+        "images/project10-7.jpg",
+        "images/project10-8.jpg"
+      ],
+      "projectArea": "089 Потрясающий комплекс с двумя пятиэтажными блоками апартаментов в Пафосе",
+      "projectStatus": "В процессе",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projects": [
+        {
+          "type": "Блок В А202",
+          "bedroom": 3,
+          "area": 141.27,
+          "yard": 0,
+          "price": 340000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Блок Б А101",
+          "bedroom": 3,
+          "area": 161.64,
+          "yard": 0,
+          "price": 335000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Блок Б А201",
+          "bedroom": 3,
+          "area": 161.64,
+          "yard": 0,
+          "price": 350000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Блок Б А301",
+          "bedroom": 3,
+          "area": 161.64,
+          "yard": 0,
+          "price": 365000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Блок Б А302",
+          "bedroom": 3,
+          "area": 153.77,
+          "yard": 0,
+          "price": 350000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Блок Б А401",
+          "bedroom": 3,
+          "area": 161.64,
+          "yard": 0,
+          "price": 380000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Блок Б А501",
+          "bedroom": 3,
+          "area": 170.74,
+          "yard": 0,
+          "price": 395000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 11,
+      "projectIndex": "011",
+      "projectImgUrl": [
+        "images/project11-1.jpg",
+        "images/project11-2.jpg",
+        "images/project11-3.jpg",
+        "images/project11-4.jpg",
+        "images/project11-5.jpg",
+        "images/project11-6.jpg",
+        "images/project11-7.jpg"
+      ],
+      "projectArea": "090 Комплекс вилл С 2, 3, 4 спальнями на первой линии и таун-хаусами в Пафосе",
+      "projectStatus": "В процессе",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projects": [
+        {
+          "type": "Таун хаус 09",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 10",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 11",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 12",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 13",
+          "bedroom": 3,
+          "area": 136.6,
+          "yard": 199.45,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 14",
+          "bedroom": 3,
+          "area": 136.6,
+          "yard": 199.45,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 15",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 16",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 17",
+          "bedroom": 3,
+          "area": 153.8,
+          "yard": 171.84,
+          "price": 330000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 18",
+          "bedroom": 3,
+          "area": 153.8,
+          "yard": 159.6,
+          "price": 320000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 19",
+          "bedroom": 3,
+          "area": 153.8,
+          "yard": 159.6,
+          "price": 320000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 20",
+          "bedroom": 3,
+          "area": 153.8,
+          "yard": 171.84,
+          "price": 330000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 21",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 22",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 184.7,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 33",
+          "bedroom": 3,
+          "area": 136.6,
+          "yard": 199.45,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 34",
+          "bedroom": 3,
+          "area": 136.6,
+          "yard": 199.45,
+          "price": 315000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 36",
+          "bedroom": 2,
+          "area": 134.57,
+          "yard": 180.5,
+          "price": 300000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 37",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 188.9,
+          "price": 320000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Таун хаус 38",
+          "bedroom": 3,
+          "area": 141.8,
+          "yard": 190.8,
+          "price": 320000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V02",
+          "bedroom": 4,
+          "area": 175.77,
+          "yard": 368.94,
+          "price": 410000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V24",
+          "bedroom": 3,
+          "area": 178.76,
+          "yard": 329.3,
+          "price": 370000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V27",
+          "bedroom": 3,
+          "area": 173.05,
+          "yard": 329.5,
+          "price": 360000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V28",
+          "bedroom": 3,
+          "area": 176.64,
+          "yard": 330,
+          "price": 360000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V29",
+          "bedroom": 3,
+          "area": 176.64,
+          "yard": 330,
+          "price": 360000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V30",
+          "bedroom": 3,
+          "area": 176.17,
+          "yard": 329.6,
+          "price": 360000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V31",
+          "bedroom": 3,
+          "area": 173.05,
+          "yard": 329.5,
+          "price": 360000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Вилла V32",
+          "bedroom": 3,
+          "area": 170.21,
+          "yard": 331.8,
+          "price": 360000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 12,
+      "projectIndex": "012",
+      "projectImgUrl": [
+        "images/project12.jpg",
+        "images/project12.jpg",
+        "images/project12.jpg"
+      ],
+      "projectArea": "001 Участок в деревне Акурдалия",
+      "projectStatus": "Земля",
+      "projectType": "Инвестиционная",
+      "region": "Пафос",
+      "projects": [
+        {
+          "type": "Akourdalia 354,127,128,5,134 #128,127,134,5,354",
+          "bedroom": 0,
+          "area": 0,
+          "yard": 36416,
+          "price": 2000000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 13,
+      "projectIndex": "013",
+      "projectImgUrl": [
+        "images/project13.jpg",
+        "images/project13.jpg",
+        "images/project13.jpg"
+      ],
+      "projectArea": "002 Участок в деревне Аргака",
+      "projectStatus": "Земля",
+      "projectType": "Инвестиционная",
+      "region": "Пафос",
+      "projects": [
+        {
+          "type": "Argaka597 #597",
+          "bedroom": 0,
+          "area": 0,
+          "yard": 16389,
+          "price": 1545000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Argaka 598 #598",
+          "bedroom": 0,
+          "area": 0,
+          "yard": 8027,
+          "price": 706000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 14,
+      "projectIndex": "014",
+      "projectImgUrl": [
+        "images/project14.jpg",
+        "images/project14.jpg",
+        "images/project14.jpg"
+      ],
+      "projectArea": "003 Участки и объекты в частном комплексе на вершине холма в деревне Тсада",
+      "projectStatus": "Земля",
+      "projectType": "Инвестиционная",
+      "region": "Пафос",
+      "projects": [
+        {
+          "type": "Land/Plot #26 (Plot 851)",
+          "bedroom": 0,
+          "area": 680.0,
+          "yard": 0,
+          "price": 110000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #7 (Plot 875)",
+          "bedroom": 0,
+          "area": 290.0,
+          "yard": 692.0,
+          "price": 165000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #14 (Plot 868)",
+          "bedroom": 0,
+          "area": 751.0,
+          "yard": 0,
+          "price": 130000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #15 (Plot 867)",
+          "bedroom": 0,
+          "area": 628.0,
+          "yard": 0,
+          "price": 105000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #16 (Plot 866)",
+          "bedroom": 0,
+          "area": 673.0,
+          "yard": 280.0,
+          "price": 175000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #25 (Plot 852)",
+          "bedroom": 0,
+          "area": 711.0,
+          "yard": 0,
+          "price": 115000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #27 (Plot 850)",
+          "bedroom": 0,
+          "area": 631.0,
+          "yard": 0,
+          "price": 105000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Land/Plot #2 (Plot 879)",
+          "bedroom": 0,
+          "area": 1237.0,
+          "yard": 0,
+          "price": 124000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 15,
+      "projectIndex": "015",
+      "projectImgUrl": [
+        "images/project15-1.jpg",
+        "images/project15-2.jpg",
+        "images/project15-3.jpg",
+        "images/project15-4.jpg",
+        "images/project15-5.jpg",
+        "images/project15-6.jpg",
+        "images/project15-7.jpg"
+      ],
+      "projectArea": "036 Современное коммерческое здание в Пафосе",
+      "projectStatus": "Завершен",
+      "projectType": "Коммерческая",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Современное коммерческое здание  расположено на въезде в город Пафос, недалеко от центра города. Учебные заведения, банки, магазины, офисы, кафе и точки общественного питания окружают этот современный коммерческий объект."
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Особенности"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Отличное расположение в центре города",
+            "Тихий жилой район",
+            "Пешком до центра города",
+            "Общественный детский сад, начальная и",
+            "старшая школы в пределах метров",
+            "Пешком до всех удобств",
+            "Прекрасные виды на горы"
+          ]
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Расположение объекта и расстояния"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Пляж 4 км",
+            "Школа 2.5 км",
+            "Медицинское обслуживание 500m",
+            "Магазин 100м",
+            "Аэропорт 12 км"
+          ]
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Характеристики"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Лифты на все этажи",
+            "Солнечная система для нагрева воды",
+            "Система подачи воды под давлением",
+            "Резерв для системы кондиционирования воздуха",
+            "Электроприборы - (по желанию)",
+            "Мебельный пакет - (по желанию)",
+            "Система кондиционирования - (по желанию)",
+            "Энергоэффективность – A"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://dom.com.cy/live/complexes/luxury-complex-paphos/aurora/#"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Basement",
+          "bedroom": 0,
+          "area": 159,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Ground Floor",
+          "bedroom": 0,
+          "area": 137,
+          "yard": 16,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Mezzanine",
+          "bedroom": 0,
+          "area": 66,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "First Floor",
+          "bedroom": 0,
+          "area": 109,
+          "yard": 19,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Second Floor",
+          "bedroom": 0,
+          "area": 96,
+          "yard": 6,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Third Floor",
+          "bedroom": 0,
+          "area": 103,
+          "yard": 13,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Roof Garden",
+          "bedroom": 0,
+          "area": 0,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Total Areas",
+          "bedroom": 0,
+          "area": 670,
+          "yard": 54,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Covered Parking",
+          "bedroom": 0,
+          "area": 74.88,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Uncovered Parking",
+          "bedroom": 0,
+          "area": 34.56,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Mechanical",
+          "bedroom": 0,
+          "area": 56,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Communal Area",
+          "bedroom": 0,
+          "area": 90,
+          "yard": 0,
+          "price": 3100000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 16,
+      "projectIndex": "016",
+      "projectImgUrl": [
+        "images/project16-1.jpg",
+        "images/project16-2.jpg",
+        "images/project16-3.jpg"
+      ],
+      "projectArea": "046 Превосходное современное коммерческое и жилое здание в Пафосе",
+      "projectStatus": "Завершен",
+      "projectType": "Коммерческая",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Превосходное современное коммерческое и жилое здание. Проект  расположен в центре города на проспекте Апостола Павла, между центром Пафоса и Като Пафосом (нижней частью города), всего в 5 минутах езды в любом направлении.  Проспект Апостола Павла – одна из самых коммерческих улиц Пафоса, соединяющая центр города с «главной полосой» туристической зоны Като Пафоса (нижней части города). Он окружен коммерческими зданиями, в том числе магазинами, офисами, ресторанами и банками."
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Расположение объекта и расстояния"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Пляж 1,25 км",
+            "Школа 2.5 км",
+            "Медицинское обслуживание 50m",
+            "Магазин 100м",
+            "Аэропорт 17 км"
+          ]
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Характеристики"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Цокольный этаж Крытые парковки и складские помещения",
+            "1-й уровень и Мезонин Выставочный зал с открытыми парковочными местами",
+            "2-й уровень трехспальный апартамент",
+            "3-й уровень трехспальный апартамент",
+            "4-й и 5-й уровень трехспальный пентхаус с террасой и бассейном на крыше",
+            "Идеально подходит для инвестиций с высокой отдачей Оснащен материалами высшего качества и отделкой"
+          ]
+        },
+        {
+          "textType": "link",
+          "textContent": "https://www.islandbluecyprus.ru/ibc-tower-commercial-and-residential-tower-for-sale-paphos/"
+        }
+      ],
+      "projects": [
+        {
+          "type": "Parking",
+          "bedroom": 0,
+          "area": 307,
+          "yard": 0,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Showroom 1",
+          "bedroom": 0,
+          "area": 250,
+          "yard": 0,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Showroom 2",
+          "bedroom": 0,
+          "area": 125,
+          "yard": 0,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Offices",
+          "bedroom": 0,
+          "area": 131,
+          "yard": 0,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment 201",
+          "bedroom": 0,
+          "area": 133,
+          "yard": 0,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Apartment 301",
+          "bedroom": 0,
+          "area": 133,
+          "yard": 3,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        },
+        {
+          "type": "Roof Garden",
+          "bedroom": 0,
+          "area": 119,
+          "yard": 0,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    },
+    {
+      "projectId": 17,
+      "projectIndex": "016",
+      "projectImgUrl": [
+        "images/project17-1.jpg",
+        "images/project17-2.jpg",
+        "images/project17-3.jpg",
+        "images/project17-4.jpg",
+        "images/project17-5.jpg",
+        "images/project17-6.jpg",
+        "images/project17-7.jpg",
+        "images/project17-8.jpg",
+        "images/project17-9.jpg",
+        "images/project17-10.jpg",
+        "images/project17-11.jpg",
+        "images/project17-12.jpg",
+        "images/project17-13.jpg",
+        "images/project17-14.jpg",
+        "images/project17-15.jpg",
+        "images/project17-16.jpg"
+      ],
+      "projectArea": "091 Роскошная вилла в деревне Пейя (Пафос)",
+      "projectStatus": "Завершен",
+      "projectType": "Частная",
+      "region": "Пафос",
+      "projectDescription": [
+        {
+          "textType": "paragraphFirt",
+          "textContent": "Расположен в деревне Пейя, недалеко от Корал Бэй, самого популярного туристического района Пафоса. "
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Эта роскошная вилла расположена на склоне холма, откуда открывается панорамный вид. В доме есть частный бассейн (5 м х 10 м), окруженный прекрасными садами."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Проект состоит из главной виллы с четырьмя спальнями, большим тренажерным залом и сауной. А также апартаментами с одной спальней, примыкающей к главной вилле, в которой также есть отдельная ванная комната, небольшая кухня, гостиная и столовая. Апартаменты отделены большим внутренним двориком и площадкой для барбекю."
+        },
+        {
+          "textType": "paragraph",
+          "textContent": "Объект полностью кондиционирован и имеет центральное отопление. "
+        },
+        {
+          "textType": "paragraphBold",
+          "textContent": "Внутри помещения:"
+        },
+        {
+          "textType": "list",
+          "textContent": [
+            "Кухня",
+            "Кондиционер",
+            "Центральное отопление",
+            "Ванные комнаты",
+            "Жалюзи на открытом воздухе",
+            "Площадка для барбекю",
+            "Сад",
+            "Частный бассейн"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "type": "готовая недвижимость на вторичном рынке ",
+          "bedroom": 0,
+          "area": 330,
+          "yard": 1450,
+          "price": 4500000,
+          "innerArea": 0,
+          "veranda": 0,
+          "pricePerSquareMetre": 0
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "newsId": 1,
+      "newsTitle": "КИПР ЗАПУСТИТ В РАБОТУ ЭЛЕКТРОННЫЙ РЕЕСТР КОНЕЧНЫХ БЕНЕФИЦИАРОВ К КОНЦУ СЕНТЯБРЯ. КАК ТОГО ТРЕБУЕТ ЕС",
+      "newsSubtitle": "ЭЛЕКТРОННЫЙ РЕЕСТР",
+      "newsImage": "images/news1.png",
+      "newsDate": "01.08.2023",
+      "newsBody": [
+        "Кипр — единственная страна ЕС, в которой до сих пор не создан в электронном виде реестр конечных бенефициаров компаний (UBO). По словам министра финансов Республики Кипр Макиса Керавноса, реестр уже готов в бумажном виде, и теперь департамент регистрации компаний работает над его оцифровкой. Она будет завершена к концу сентября. К единой европейской платформе кипрский реестр UBO будет подключен в декабре",
+        "· В 2021 году (самые свежие данные) в реестре Республики Кипр было зарегистрировано 203 545 компаний",
+        "Созданием и запуском электронного реестра UBO занимается частная компания, которая выиграла государственный тендер. Деньги на цифровую версию реестра конечных бенефициаров выделены из средств ЕС в рамках программы восстановления и развития Республики Кипр.",
+        "— Мы уже близки к завершению работы над электронным реестром, — заявила StockWatch глава департамента регистрации компаний Ирини Милонас-Хризостому. Если цифровая версия реестра не будет запущена в указанный срок, то Кипру грозят штрафные санкции ЕС. Страна также может лишиться финансирования Евросоюза на данный проект. Как заверила Ирини Милонас-Хризостому, департамент регистрации компаний «не допустит этого».",
+        "По ее словам, цифровой портал с данными о конечных бенефициарах периодически тестируется, чтобы не оставлять проверку на последний день. После финального тестирования электронный реестр будет открыт. Его интеграция с единым европейским реестром будет завершена к концу 2023 года, как того требует ЕС.",
+        "· В ноябре 2022 год Суд Европейского Союза (CJEU) принял решение ограничить доступ граждан к реестру конечных бенефициаровкомпаний, действующих на территории ЕС. По мнению судей CJEU, свободный доступ к реестру противоречит защите фундаментальных прав человека, таких как право на уважение частной жизни и право на защиту личных данных. Доступ к реестру имеет ограниченный круг государственных организаций стран-членов ЕС, Европол и комитет экспертов Совета Европы по оценке мер борьбы с отмыванием денег (Moneyval).",
+        "По мнению Брюсселя, единая европейская платформа, в которой будут собраны конечные собственники компаний, зарегистрированных в ЕС, поможет в борьбе с финишированием терроризма, отмыванием денег и уклонением от уплаты налогов.",
+        "Сообщает ЕвропаКипр"
+      ]
+    },
+    {
+      "newsId": 2,
+      "newsTitle": "Кипр подключился к Шенгенской информационной системе. Что это значит для туристов",
+      "newsSubtitle": "ШЕНГЕНСКОЙ ИНФОРМАЦИОННОЙ СИСТЕМЕ",
+      "newsImage": "images/news2.png",
+      "newsDate": "28.07.2023",
+      "newsBody": [
+        "Кипр последним из стран, входящих в ЕС, получил доступ к Шенгенской информационной системе (SIS). Сразу подчеркнем: это не означает, что Кипр стал полноправным членом Шенгенской зоны. Но появились некоторые нюансы, о которых стоит знать путешественникам.",
+        "КИПР ПОЛУЧИЛ ДОСТУП К ШЕНГЕНСКОЙ ИНФОРМАЦИОННОЙ СИСТЕМЕ",
+        "Республика Кипр с 25 июля официально получила доступ к Шенгенской информационной системе (SIS). Напомним, Кипр входит в ЕС, но не входит в Шенген, хотя въехать в страну по открытой многократной шенгенской визе можно.",
+        "По информации Доры Никандру, директора кипрского бюро SIRENE, организации, отвечающей за работу с SIS, подключение Кипра к шенгенской базе данных повышает эффективность в борьбе с нелегальной иммиграцией и преступностью. Кроме того, это улучшает поиск лиц, в том числе, находящихся в розыске, или в отношении которых вынесено постановление об экстрадиции из стран ЕС",
+        "Как пояснила представитель SIRENE, теперь разыскиваемые лица, данные о которых есть в SIS, в случае их въезда или нахождения на Кипре «смогут быть немедленно обнаружены» со всеми вытекающими отсюда процедурами.",
+        "«Офицер полиции на Кипре регистрирует данные о подозреваемом в уголовном деле, и в течение одной-двух минут эта информация станет видна сотруднику полиции или пограничнику другой страны, что позволит произвести немедленный арест. Прежде обмен информацией занимал несколько дней», – сообщила Дора Никандру.",
+        "«Нет никаких сомнений в том, что интеграция Кипра с SIS в значительной степени поможет в борьбе с преступностью как на национальном, так и на европейском уровне», — подчеркнула она.",
+        "КИПР НА ПУТИ К ШЕНГЕНУ",
+        "Как разъясняют кипрские власти, присоединение страны к Шенгенской информационной системе не означает автоматического включения в Шенгенскую зону. Однако это подтверждает готовность Кипра к вхождению в Шенген, о чем страна заявила в 2019 году.",
+        "Процесс был инициирован тогдашним министром иностранных дел и нынешним президентом Никосом Христодулидисом. За последние 4 года островное государство прошло процесс комплексной оценки, охватывающий пять областей соответствия статусу страны Шенгенской зоны. Последняя из них как раз касается интеграции с SIS.",
+        "Таким образом, все предварительные условия для вступления в Шенген Кипр выполнил. Теперь в правительстве страны рассчитывают, что вопрос о присоединении к Шенгенской зоне будет вынесен на рассмотрение Совета министров ЕС. Но о том, когда Кипр может войти в Шенген, ни в Брюсселе, ни в Никосии прогнозов не делают.",
+        "В МВД Кипра также разъяснили: присоединение к SIS не означает отмены пограничного контроля с шенгенскими странами.",
+        "«Проверки на внутренних границах с другими государствами-членами Шенгенской зоны не сняты, как для граждан Республики Кипр и других граждан ЕС, так и для граждан третьих стран. До тех пор, пока Кипр не присоединится к Шенгенской зоне, Кипр будет продолжать, как и прежде, проводить проверки прибывающих и вылетающих пассажиров на всех пунктах пропуска», – говорится в заявлении ведомства.",
+        "ОТКАЗ ВО ВЪЕЗДЕ В ШЕНГЕНСКУЮ ЗОНУ МОЖЕТ СТАТЬ ПРОБЛЕМОЙ ПРИ ВЪЕЗДЕ НА КИПР",
+        "Шенгенская информационная система считается наиболее широко используемой и крупнейшей системой обмена информацией для обеспечения безопасности, а также управления пограничными сервисами в Европе.",
+        "SIS содержит обширную информацию о лицах и объектах, включая персональные данные, в том числе, биометрические. Через систему государства-члены ЕС могут также обмениваться и управлять информацией о незаконных въездах, а также о разыскиваемых лицах, угнанных автомобилях, неоплаченных штрафах, украденных, потерянных или поддельных документах, удостоверяющие личность.",
+        "После ввода предупреждения в SIS данные становятся доступными для всех заинтересованных служб стран ЕС: пограничников, таможенников, полиции и т.д. Данные в SIS хранятся от 3 до 5 лет, и обычно после того, как предупреждение было устранено (например, обнаружен пропавший человек), предупреждение удаляется из системы.",
+        "Самым частным предупреждением, которое фигурирует в шенгенской базе данных, является отказ во въезде в Шенгенскую зону.",
+        "Такая пометка ставится в отношении иностранного гражданина, которому запрещен въезд или пребывание в любой из стран Шенгенского соглашения. Соответственно, если такой человек попытается въехать, ему должно быть отказано в этом, а в случае обнаружения его пребывания в Шенгенской зоне его ждет экстрадиция.",
+        "Другими словами, у россиян, при наличии визовых или более весомых проблем, связанных с пребыванием в Шенгенской зоне, теперь могут возникнуть сложности со въездом и на Кипр, если информация о таких случаях размещена в SIS.",
+        "Если в системе присутствует такое предупреждение, удалить или изменить его может только тот орган или страна, которые его поставили. Требовать что-то поменять и разрешить въезд от пограничной службы Кипра – бессмысленно: придется подать письменный запрос вместе с копией загранпаспорта в ведомство той страны, которая наложила ограничение.",
+        "Елена Мягкова",
+        "Фото: Wikimedia Commons"
+      ]
+    },
+    {
+      "newsId": 3,
+      "newsTitle": "Кипрский паспорт стал «сильнее»",
+      "newsSubtitle": "Кипрский паспорт",
+      "newsImage": "images/news3.png",
+      "newsDate": "19.07.2023",
+      "newsBody": [
+        "Кипрский документ поднялся на две строчки в индексе самых «сильных» паспортов, подготовленном компанией Henley and Partners. Изменения коснулись и других стран, в том числе лидеров списка.",
+        "Документы распределяют по рейтингу в зависимости от того, в какое количество стран и территорий их владельца пустят без визы или с визой, поставленной по прибытии/сделанной онлайн. Агентство берет информацию из данных, предоставленных Международным управлением воздушного транспорта (IATA). В рейтинге 199 участников.",
+        "В течение пяти последних лет паспорт Японии носил звание самого «сильного» в мире. В рейтинге 2023 года первое место занял паспорт Сингапура, который позволяет совершать безвизовые поездки в 192 из 227 пунктов назначения по всему миру.",
+        "Германия, Италия и Испания заняли второе место: их граждане могут посетить 190 пунктов назначения по всему миру. Япония опустилась на третье место, ее паспорт дает безвизовый доступ в 189 пунктов назначения (в 2022 году их было 193).",
+        "Другие страны, занявшие третье место: Австрия, Финляндия, Франция, Люксембург, Южная Корея и Швеция. Великобритания поднялась на две строчки, до четвертого места, преодолев шестилетнюю тенденцию к падению в рейтинге.",
+        "Первая десятка выглядит следующим образом:",
+        "1.Сингапур (192 пункта назначения)",
+        "2.Германия, Италия и Испания (190 направления)",
+        "3.Австрия, Финляндия, Франция, Япония, Люксембург, Южная Корея, Швеция (189)",
+        "4.Дания, Ирландия, Нидерланды, Великобритания (188 пунктов назначения)",
+        "5.Бельгия, Чехия, Мальта, Новая Зеландия, Норвегия, Португалия, Швейцария (187 направлений)",
+        "6.Австралия, Венгрия, Польша (186 пунктов назначения)",
+        "7.Канада, Греция (185 направлений)",
+        "8.Литва, США (184 пункта назначения)",
+        "9.Латвия, Словакия, Словения (183 пункта назначения)",
+        "10.Эстония, Исландия (182 пункта назначения)",
+        "Кипр находится довольно высоко в рейтинге, занимая 12-е место. Это на две позиции выше по сравнению с 2022 годом. Кипрский паспорт открывает двери по 179 направлениям без необходимости делать визу заранее.",
+        "Паспорт РФ занял 49-ю строчку со 115 безвизовыми направлениями.",
+        "Разрыв в свободе передвижения между гражданами стран на первой и на последней строке рейтинга стал больше, чем когда-либо. Граждане Афганистана могут посещать без визы только 27 направлений, граждане Ирака – 29, граждане Сирии – 30.",
+        "Полностью рейтинг можно посмотреть здесь.",
+        "При этом 15% киприотов никогда не покидали остров. По каким причинам, можно почитатьв рассказах этих людей.",
+        "Сообщает ВестникКипра"
+      ]
+    }
+  ]
+}

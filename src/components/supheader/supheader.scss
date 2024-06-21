@@ -1,0 +1,36 @@
+.supheader {
+  background-color: #0e2341;
+  color: #fff;
+  .supheader__inner {
+    padding: 0.9rem 2rem;
+    font-size: 1.4rem;
+
+    .supheader__contacts {
+      gap: 5rem;
+
+      a {
+        color: #fff;
+      }
+    }
+
+    .supheader__right-col {
+      gap: 5rem;
+      .supheader__social-medias {
+        gap: 2rem;
+        img {
+          transition: all 200ms linear;
+          &:hover {
+            transform: scale(1.05);
+          }
+        }
+      }
+    }
+
+    @media screen and (max-width: 768px) {
+      display: none;
+    }
+    @media screen and (min-width: 1080px) {
+      padding: 1rem 0rem;
+    }
+  }
+}
